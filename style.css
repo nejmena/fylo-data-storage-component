@@ -66,6 +66,7 @@ main {
 }
 .text {
     margin-top: 0;
+    font-size: 14px;
 }
 .text, .gbs, footer {
     color: var(--Pale-Blue)
