@@ -170,6 +170,9 @@ footer {
 }
 /* MEDIA QUERY */
 @media only screen and (max-width: 1050px) {
+    main {
+	padding: 21.5vh 0;
+	}
     .container {
         flex-direction: column;
         align-items: center;
